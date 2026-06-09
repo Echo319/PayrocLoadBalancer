@@ -17,6 +17,9 @@ have the following capabilities:
 - You may choose any language you are comfortable with. 
 - You should not use any cloud-services in the completion of this exercise.
 
+  
+I dont know how strict we want to be with the 1999 part but I did this with OpenJDK 24 as thats what I had. 
+
 ## Install
 
 To build
